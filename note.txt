@@ -1,0 +1,6 @@
+PyTorch tutorials
+Video 1 --> done
+Video 2 
+    -- In PyTorch everything is based on Tensor operations (Just like Numpy array)
+    -- Tensor have more dimensions, 1D, 2D, 3D and more dimensions.
+    --
